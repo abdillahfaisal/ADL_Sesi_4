@@ -18,7 +18,7 @@ import java.util.Scanner;
 	                System.out.println();
 	                if(i==1 || i==kaliBerapa) {	          
 	                    for(int j=1; j<=kaliBerapa; j++){	                    
-	                        System.out.print(pattern+" ");	                    
+	                        System.out.print(pattern+"   ");	                    
 	                    }
 	                } 
 	                else { 	                    
