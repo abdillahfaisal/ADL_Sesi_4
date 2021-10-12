@@ -26,7 +26,8 @@ import java.util.Scanner;
 	                        if(k==1 || k == kaliBerapa) { 	                        
 	                            System.out.print(pattern + " ");	                        
 	                        }                    
-	                        else { 	                         
+	                        else { 	        
+	                        	
 	                            System.out.print("  ");	                        
 	                        }
 	                    }
